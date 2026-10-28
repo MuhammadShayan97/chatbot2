@@ -1,0 +1,146 @@
+
+[
+  {
+    "intent": "greeting",
+    "keywords": [
+      "hello",
+      "hi",
+      "hey",
+      "salam",
+      "assalam o alaikum",
+      "assalamu alaikum",
+      "aoa",
+      "good morning",
+      "good afternoon",
+      "good evening"
+    ],
+    "reply": "Wa Alaikum Assalam! Welcome to UOS Helpdesk Bot. How can I help you today? You can ask me about admissions, fees, timings, library services, or hostels."
+  },
+  {
+    "intent": "goodbye",
+    "keywords": [
+      "bye",
+      "goodbye",
+      "allah hafiz",
+      "khuda hafiz",
+      "see you",
+      "take care"
+    ],
+    "reply": "Allah Hafiz! Thank you for using UOS Helpdesk Bot. Have a wonderful day!"
+  },
+  {
+    "intent": "thanks",
+    "keywords": [
+      "thank you",
+      "thanks",
+      "thankyou",
+      "shukriya",
+      "bohat shukriya"
+    ],
+    "reply": "You're welcome! I'm happy to help. Feel free to ask another question about the University of Sargodha."
+  },
+  {
+    "intent": "bot_identity",
+    "keywords": [
+      "who are you",
+      "what is your name",
+      "your name",
+      "who created you",
+      "what can you do"
+    ],
+    "reply": "I am UOS Helpdesk Bot, a rule-based chatbot designed to provide general guidance about the University of Sargodha, including admissions, fees, timings, library services, and hostels."
+  },
+  {
+    "intent": "admission",
+    "keywords": [
+      "admission",
+      "admissions",
+      "how to apply",
+      "apply",
+      "eligibility",
+      "merit list",
+      "merit",
+      "last date",
+      "deadline",
+      "required documents",
+      "prospectus"
+    ],
+    "reply": "For admission information, check the latest official University of Sargodha admission notice or prospectus. Review your desired program's eligibility criteria, application procedure, required documents, merit lists, and deadlines. Confirm current details through official university channels."
+  },
+  {
+    "intent": "fee",
+    "keywords": [
+      "fee structure",
+      "semester fee",
+      "tuition fee",
+      "fee challan",
+      "fee payment",
+      "scholarship",
+      "fees",
+      "fee"
+    ],
+    "reply": "For the latest fee structure, check the official University of Sargodha fee schedule for your program and semester. Contact the relevant university office to confirm your exact fee, challan details, payment deadline, and scholarship eligibility."
+  },
+  {
+    "intent": "timing",
+    "keywords": [
+      "opening time",
+      "closing time",
+      "office hours",
+      "university timings",
+      "class timings",
+      "working hours",
+      "timing",
+      "schedule"
+    ],
+    "reply": "University office hours, class schedules, and department timings may differ. Please check your department's timetable or contact the relevant university office for the current schedule."
+  },
+  {
+    "intent": "library",
+    "keywords": [
+      "library card",
+      "borrow books",
+      "return book",
+      "library timing",
+      "reading room",
+      "books",
+      "library"
+    ],
+    "reply": "For library membership, book borrowing, returns, and reading-room facilities, contact the University of Sargodha library. Please confirm current opening hours and borrowing rules with library staff."
+  },
+  {
+    "intent": "hostel",
+    "keywords": [
+      "hostel application",
+      "hostel fee",
+      "room allotment",
+      "hostel admission",
+      "accommodation",
+      "hostel",
+      "mess"
+    ],
+    "reply": "For hostel accommodation, contact the University of Sargodha hostel administration or relevant student affairs office. Ask about eligibility, room availability, application procedures, fees, required documents, and current hostel rules."
+  },
+  {
+    "intent": "university_info",
+    "keywords": [
+      "university of sargodha",
+      "uos university",
+      "about university",
+      "university location",
+      "campus"
+    ],
+    "reply": "UOS stands for the University of Sargodha, located in Sargodha, Punjab, Pakistan. For official information about academic programs, departments, campus facilities, and university services, consult the university's official website."
+  },
+  {
+    "intent": "help",
+    "keywords": [
+      "help",
+      "what can i ask",
+      "available services",
+      "how can you help",
+      "what do you know"
+    ],
+    "reply": "I can help with general questions about admissions, fee structures, university timings, library services, and hostels. You can also greet me or ask about my purpose. For exact fees, deadlines, and university policies, please verify details through official university channels."
+  }
+]
